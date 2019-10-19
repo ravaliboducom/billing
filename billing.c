@@ -115,7 +115,7 @@ for(i=1;i=pc;i++)
 {
 scanf("%d\n %d",B[i].pid,B[i].pq);
 }
-printf("----------------------**********THANK YOU FOR VISITING**********--------------------------")
+printf("----------------------**********THANK YOU FOR VISITING**********--------------------------");
 clrscr();
 printf("product ID\t Quantity\tPrice per Quantity\tPrice\n");
 for(i=1;i=pc;i++)
